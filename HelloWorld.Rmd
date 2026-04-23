@@ -2,9 +2,7 @@
 title: "HelloWorld"
 author: "UV7492"
 date: "`r Sys.Date()`"
-output:
-  word_document: default
-  html_document: default
+output: word_document
 ---
 
 ```{r setup, include=FALSE}
